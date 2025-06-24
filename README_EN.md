@@ -72,7 +72,7 @@ awk '{print $1,$2}' test_results/chimera_report.tsv
 If you use this workflow in your research:  
 ```bibtex
 @software{plant_chimera_2025,
-  author = {Andreina Bendayan},
+  author = {Bendayan, Andreina},
   title = {Plant ITS Chimera Detection Pipeline},
   year = {2025},
   publisher = {GitHub},
