@@ -1,3 +1,5 @@
+[![English](https://img.shields.io/badge/Read_IN_ENGLISH-blue?style=for-the-badge)](LICENSE.md)
+
 Licencia MIT
 
 Copyright (c) 2025 Andreina Bendayan
