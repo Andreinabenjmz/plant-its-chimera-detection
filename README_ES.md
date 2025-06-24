@@ -8,7 +8,7 @@ Workflow bioinformático automatizado para validar secuencias del Espaciador Tra
 
 <p align="center">
   <img src="https://img.shields.io/badge/Idioma-Español-red" alt="Español">
-  <a href="DOCS_EN.md">
+  <a href="README_EN.md">
     <img src="https://img.shields.io/badge/Ver_en_Inglés-blue" alt="English">
   </a>
 </p>
