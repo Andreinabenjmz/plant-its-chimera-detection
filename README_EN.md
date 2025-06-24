@@ -16,7 +16,7 @@ Automated bioinformatic workflow for validating plant Internal Transcribed Space
 ## 🚀 Quick Installation  
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/plant-its-chimera-detection.git
+git clone https://github.com/Andreinabenjmz/plant-its-chimera-detection.git
 cd plant-its-chimera-detection
 
 # Create Conda environment
