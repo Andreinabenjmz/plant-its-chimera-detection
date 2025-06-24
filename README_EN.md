@@ -9,7 +9,6 @@ Automated bioinformatic workflow for validating plant Internal Transcribed Space
 <p align="center">
   <img src="https://img.shields.io/badge/Language-English-blue" alt="English">
   <a href="README_ES.md">
-    <img src="https://img.shields.io/badge/Ver_en_Español-red" alt="Spanish">
   </a>
 </p>
 
