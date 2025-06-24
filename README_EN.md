@@ -72,12 +72,12 @@ awk '{print $1,$2}' test_results/chimera_report.tsv
 If you use this workflow in your research:  
 ```bibtex
 @software{plant_chimera_2025,
-  author = {Your Name},
+  author = {Andreina Bendayan},
   title = {Plant ITS Chimera Detection Pipeline},
   year = {2025},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/yourusername/plant-its-chimera-detection}}
+  howpublished = {\url{https://github.com/Andreinabenjmz/plant-its-chimera-detection}}
 }
 ```
 
