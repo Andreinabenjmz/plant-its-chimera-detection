@@ -77,4 +77,4 @@ If you use this workflow in your research:
 ```
 
 ## ⚖️ License  
-[MIT License](LICENSE) - Free for academic and commercial use with attribution
+[MIT LICENSE](LICENSE.md) - Free for academic and commercial use with attribution
