@@ -6,13 +6,6 @@ Workflow bioinformático automatizado para validar secuencias del Espaciador Tra
 - Base de datos de referencia **UNITE+INSD Viridiplantae**  
 - Control de calidad para depósito en GenBank  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Idioma-Español-red" alt="Español">
-  <a href="README_EN.md">
-    <img src="https://img.shields.io/badge/Ver_en_Inglés-blue" alt="English">
-  </a>
-</p>
-
 ## 🚀 Instalación Rápida  
 ```bash
 # Clonar repositorio
