@@ -1,3 +1,5 @@
+[![English](https://img.shields.io/badge/READ_IN_ENGLISH-blue?style=for-the-badge)](README.md)
+
 # 🌿 Pipeline de Detección de Quimeras para ITS de Plantas  
 
 ## 🔍 Resumen Científico  
