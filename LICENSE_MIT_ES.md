@@ -1,4 +1,4 @@
-MIT License
+Licencia MIT
 
 Copyright (c) 2025 Andreina Bendayan
 
