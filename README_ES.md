@@ -82,6 +82,6 @@ Si usas este workflow en tu investigación:
 ```
 
 ## ⚖️ Licencia  
-[Licencia MIT ES](LICENSE) - Libre para uso académico y comercial con atribución
+[Licencia MIT ES](LICENSE_MIT_ES) - Libre para uso académico y comercial con atribución
 
 [Ver en inglés](DOCS_EN.md)
