@@ -1,5 +1,5 @@
-[![Español](https://img.shields.io/badge/LEER_EN_ESPAÑOL-red?style=for-the-badge)](MIT_LICENSE_EN.md)
-[![English](https://img.shields.io/badge/READ_IN_ENGLISH-blue?style=for-the-badge)](LICENCIA_MIT_ES.md)
+[![English](https://img.shields.io/badge/READ_IN_ENGLISH-red?style=for-the-badge)](MIT_LICENSE_EN.md)
+[![Español](https://img.shields.io/badge/Leer_EN_ESPAÑOL-blue?style=for-the-badge)](LICENCIA_MIT_ES.md)
 
 MIT License
 
